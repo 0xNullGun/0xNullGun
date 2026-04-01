@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="assets/MRX7014.gif" />
+  <img src="assets/xenoZ0x.jpg" />
 </div>
 <div id="badges"align="center">
   
 ### Linktree (All My Accounts)
 
-<a href="https://linktr.ee/mrx7014" target="_blank">
+<a href="https://linktr.ee/xenoZ0x" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="50" alt="linktree logo"/>
   </a>
 </div>
@@ -13,12 +13,12 @@
 <div id="header1" align="center">
 
   ![badge](https://aktive.kerolloz.dev/egypt/mrx7014?label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
-  <img src="https://komarev.com/ghpvc/?username=mrx7014&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
+  <img src="https://komarev.com/ghpvc/?username=xenoZ0x&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
   ![](https://hit.yhype.me/github/profile?user_id=121203923)
 </div>
 <div id="view" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=MRX7014+High+experience+in+Linux+system%2C+Bash+Scripting+and+several+other+things.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=xenoZ0x+High+experience+in+Linux+system%2C+Bash+Scripting+and+several+other+things.)](https://git.io/typing-svg)
 
 ---
 <div align="left">
@@ -27,31 +27,26 @@
 
 ### About Me :
 
-- **Name**: MRX7014 (Do not check commits history)
+- **Name**: xenoZ0x (Do not check commits history)
 - **Job Title**: Bug Bounty (Still in KG 1) 👶
 - **Country**: 🏡 Egypt (probably debugging bugs IRL)
-- **Fun Fact**: I am an Octopus 🐙 (8 arms, still can’t multitask properly 🤷)
+- **Fun Fact**: I am an Samurai 🥷 ( but without katana )
 
 ### 🚀 **Currently Working On**
 - 🐞 Catching Bugs (Learning Bug Bounty)
-- 🤖 Android Development (Breaking and Fixing ROMs)
+- 🤖 Android Development
 - 🐚 Bash Scripting (When copy-paste is not enough)
-- 🔧 Playing with Magisk and LSPosed (because why not?)
 - 📜 Advanced Linux (becoming a terminal wizard)
-- A lot of other things (A Real Octopus)
 
 ### 🎮 **Skills**
 - 🐧 Linux Setup and Usage (the penguin approves)
 - 🖥️ Managing Linux Servers (keeping them alive at 3 AM)
-- 🔗 Magisk & LSPosed Modules (like mods for real life)
-- 💻 Android Development (because stock is boring)
-- etc... ( A Real Octopus again )
+- 💻 Android Development
 
 ### 🤔 **Ask Me About**
 - 💻 Technical Support (aka have you tried turning it off and on again ?)
 - ⚙️ Operating Systems (Linux is life!)
-- 🤖 Android Development (ROMs and Recoveries, brick-free since 2021)
-- 📂 ROOT, Termux, and Bash Scripting (Android dark arts)
+- 🤖 Android Development
 
 ### Fun Ending:
 👋 Thanks for stopping by! Now back to catching bugs... 🐛  
@@ -96,9 +91,9 @@ P.S. The script is more stable than my sleep schedule.
 ### :fire: My Stats :
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrx7014&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/mrx7014?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xenoZ0x&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/xenoZ0x?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/mrx7014?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenoZ0x&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/xenoZ0x?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 
@@ -136,11 +131,11 @@ P.S. The script is more stable than my sleep schedule.
 
 ---
 
- [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=mrx7014&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/mrx7014?tab=repositories)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=xenoZ0x&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/xenoZ0x?tab=repositories)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
 </div>
 
 ---
 
-### :writing_hand: My Medium Blog  : [/@mrx7014](https://medium.com/@mrx7014)
+### :writing_hand: My Medium Blog  : [/@xenoZ0x](https://medium.com/@xenoZ0x)
 
 ![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
