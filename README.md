@@ -13,7 +13,7 @@
 <div id="header1" align="center">
 
   ![badge](https://aktive.kerolloz.dev/egypt/mrx7014?label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
-  <img src="https://komarev.com/ghpvc/?username=xenoZ0x&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
+  <img src="https://komarev.com/ghpvc/?username=mrx7014&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
   ![](https://hit.yhype.me/github/profile?user_id=121203923)
 </div>
 <div id="view" align="center">
