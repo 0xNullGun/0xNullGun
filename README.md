@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img src="assets/xenoZ0xx.jpg" />
+  <img src="assets/0xNullGun.jpg" />
 </div>
 <div id="badges"align="center">
   
 ### Linktree (All My Accounts)
 
-<a href="https://linktr.ee/xenoZ0x" target="_blank">
+<a href="https://linktr.ee/userna" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="50" alt="linktree logo"/>
   </a>
 </div>
@@ -13,7 +13,7 @@
 <div id="header1" align="center">
 
   ![badge](https://aktive.kerolloz.dev/egypt/mrx7014?label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
-  <img src="https://komarev.com/ghpvc/?username=xenoZ0x&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
+  <img src="https://komarev.com/ghpvc/?username=0xNull0xN&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
   ![](https://hit.yhype.me/github/profile?user_id=121203923)
 </div>
 <div id="view" align="center">
